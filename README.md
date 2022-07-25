@@ -2,7 +2,8 @@ Olá! Eu sou Carolina Bittencourt 🙂
 
 ##
 
-- 🌱 Estou estudando Python, SQL e JS
+- 🌱 Estou estudando PowerBI, SQL, Knime e Análise de Dados
+- 🌱 Estou fazendo Pós Gadruação em Business Intelligence e Analytics na Conquer
 - 😄 Pronomes: ela/dela
 <div align="center">
   <a href="https://github.com/bccarolina">
