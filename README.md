@@ -2,7 +2,7 @@ Olá!! 🙂
 
 ##
 
-- 👩🏽‍💻 Atualmente trabalho como Analista de Contabilidade no time de Finance do Jusbrasil
+- 👩🏽‍💻 Atualmente trabalho como Analista de Dados Financeiros Jr. no time de Finance do Jusbrasil
 - 🌱 Estou estudando PowerBI, SQL, Knime e Análise de Dados. Sinta-se à vontade para me chamar para trocarmos ideias!
 - 🌱 Estou fazendo Pós Gadruação em Business Intelligence e Analytics na Conquer
 - 😄 Ela/Dela
