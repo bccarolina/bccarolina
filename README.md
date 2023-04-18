@@ -2,11 +2,11 @@ Olá!! 🙂
 
 ##
 
-- 👩🏽‍💻 Atualmente trabalho como Analista de Dados Financeiros Jr. no time de Finance do Jusbrasil
-- 🌱 Estou estudando PowerBI, SQL, Knime e Análise de Dados. Sinta-se à vontade para me chamar para trocarmos ideias!
+- 👩🏽‍💻 I'm a Jr Financial Data Analyst at Jusbrasil
+- 🌱 I'm studying PowerBI, SQL, Knime and Data Analysis
 - 🌱 Estou fazendo Pós Gadruação em Business Intelligence e Analytics na Conquer
-- 😄 Ela/Dela
-- 📫 Você pode entrar em contato comigo através do link do linkedin na bio ou por email: carolbittencourt1106@gmail.com
+- 😄 She/Her
+- 📫 You can find me here: carolbittencourt1106@gmail.com
 
 <div align="center">
   <a href="https://github.com/bccarolina">
