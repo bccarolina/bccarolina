@@ -4,7 +4,6 @@ Hello!! 🙂
 
 - 👩🏽‍💻 I'm a Jr Financial Data Analyst at Jusbrasil
 - 🌱 I'm studying PowerBI, SQL, Knime and Data Analysis
-- 🌱 Estou fazendo Pós Gadruação em Business Intelligence e Analytics na Conquer
 - 😄 She/Her
 - 📫 You can find me here: carolbittencourt1106@gmail.com
 
